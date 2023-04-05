@@ -1,0 +1,102 @@
+.header {
+  
+  >nav {
+    font-family: "Roboto ,sans-serif";
+    background-color: rgba($color: #130717, $alpha: 1);
+    display: flex;
+    z-index: 1;
+    position: fixed;
+    width: 100vw;
+    justify-content: space-between;
+
+    #burger{
+      display: none;
+    }
+    
+   
+    >h1 {
+      padding: 0.6rem;
+      font-size: 2rem;
+
+
+      a {
+        margin: 0rem 0.5rem;
+        color: white;
+      }
+    }
+
+    >div {
+      display: flex;
+      font-family: 'Roboto', sans-serif;
+      justify-content: center;
+      text-align: center;
+      margin-right: 1rem;
+      >a {
+        margin: auto;
+        color: white;
+        padding: 0.6rem;
+        font-size: large;
+        font-weight: bold;
+        transition: all 0.2s;
+
+        >&:hover {
+          color: skyblue;
+
+        }
+
+        >&:active {
+          color: rgb(132, 106, 150);
+        }
+      }
+    }
+  }
+}
+
+.phonenav {
+  display: none;
+}
+
+
+@media only screen and (max-width:500px) {
+  .headerlinks {
+   > a {
+      display: none;
+    }
+    
+        #burger {
+          display: inline !important;
+          font-size: 1.7rem;
+          margin: auto;
+          padding: 0rem 1.5rem;
+          cursor: pointer;
+          z-index: 101;
+        }
+  }
+
+  .phonenav {
+    transition: all 0.5s;
+    width: 89%;
+    height: 100vh;
+    background-color: rgba($color: #351b31, $alpha: 0.8);
+    z-index: 1;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    transform: translateX(20%);
+    
+
+    #home{
+      padding-top: 5rem;
+    }
+
+    >a {
+      font-size: 1.5rem;
+      padding: 1.5rem;
+      color: white;
+    }
+  }
+  #phone{
+   transform: translateX(150%); 
+  }
+}
