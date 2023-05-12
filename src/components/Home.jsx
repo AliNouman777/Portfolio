@@ -117,7 +117,7 @@ const Home = () => {
                 repeatType: "reverse"
               }}
             >
-              <a href="https://github.com/alinouman-ops" target={"blank"}><i className="fa-brands fa-github"></i></a>
+              <a href="https://github.com/ALINouman777" target={"blank"}><i className="fa-brands fa-github"></i></a>
             </motion.div>
 
             <motion.div
@@ -153,7 +153,9 @@ const Home = () => {
               }}
               className='btn1'>
               <a
-                href="#project">Projects <i className="fa-solid fa-arrow-right"></i> </a>
+                href="https://drive.google.com/file/d/1g-93TJg8q5zbMp-tf5DC02xTv3WkIeuf/view?usp=share_link" 
+                target='blank'
+                >Download CV</a>
             </motion.button>
           </motion.div>
         </motion.div>

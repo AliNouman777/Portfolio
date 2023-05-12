@@ -2,6 +2,14 @@
 export default [
     {
         date:"15/03/2023",
+        title:"Notes App",
+        desc:"This is the full Stack MERN Application , With CRUD operations",
+        link:"https://frontend-notes-app-nine.vercel.app/",
+        image:"https://i.ibb.co/wQNXyQ9/Todo-App.png",
+        id:2
+    },
+    ,{
+        date:"15/03/2023",
         title:"Crypto Stocks App",
         desc:"This project is made in React Chakra-ui and Sass",
         link:"https://crypto-app-hazel-theta.vercel.app/",
@@ -16,5 +24,6 @@ export default [
         image:"https://i.ibb.co/XzttyHw/ntech.jpg",
         id:1
     },
+  
   
 ]
