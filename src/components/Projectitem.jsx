@@ -1,6 +1,6 @@
 import React,{useState} from 'react'
 import "../styles/itemcard.scss";
-import { delay, motion } from 'framer-motion';
+import {  motion } from 'framer-motion';
 const Projectitem = ({ item }) => {
   const [hoverstate,sethoverstate]=useState(false)
 
