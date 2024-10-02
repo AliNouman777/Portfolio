@@ -12,7 +12,7 @@ export default [
         title:"View Fiesta",
         desc:"This is a video streaming website created using MERN and deployed on AWS.",
         link:"https://viewfiesta.online/",
-        image:"https://i.ibb.co/pR7ZLdM/Screenshot-2024-10-02-085937.png",
+        image:"https://i.imghippo.com/files/rXUuX1727889639.png",
         id:3
     },
     {
