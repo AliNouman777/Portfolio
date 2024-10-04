@@ -4,7 +4,7 @@ export default [
         title:"Visual Emotion Music Player",
         desc:"This is a music player using a React frontend and Python backend.",
         link:"https://vistual-emotion-music-player-frontend.onrender.com/",
-        image:"https://res.cloudinary.com/dfwahwlbc/image/upload/v1728065631/Screenshot_2024-10-02_090306_abtcwz.png",
+        image:"https://res.cloudinary.com/dfwahwlbc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1728065631/Screenshot_2024-10-02_090306_abtcwz.png",
         id:4
     },
     {
