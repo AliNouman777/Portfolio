@@ -8,6 +8,15 @@ export default [
         id:4
     },
     {
+        date:"10/15/2024",
+        title:"Friendz",
+        desc:"This is a Social Media app that is created in Mern Stacks.",
+        link:"https://friendz-frontend.vercel.app/",
+        image:"https://res.cloudinary.com/dfwahwlbc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1729535065/Screenshot_2024-10-21_110324_hafjx8.png",
+        id:4
+    }
+    ,
+    {
         date:"09/15/2024",
         title:"View Fiesta",
         desc:"This is a video streaming website created using MERN and deployed on AWS.",

@@ -38,7 +38,7 @@ const About = () => {
                      initial={{ y: "100%" }}
                      whileInView={{ y: "0%" }}
                      transition={{duration:0.5}}
-                    >I am a React Frontend developer . I have  more than 1 year experience, With a deep understanding of <b>ReactJS, ExpressJS , NodeJS ,Mongodb, HTML, CSS, and JavaScript</b>. I have experience of using different frameworks like <b>Chakra UI(React) , Bootstrap</b>. And i have experience of creating Backend using <b>Node js</b> I specialize in building responsive and scalable web applications that meet the needs of clients and users alike. </motion.p>
+                    >I am a dedicated React Frontend Developer with over a year of professional experience, specializing in creating dynamic and responsive web applications. I possess a deep understanding of <b> ReactJS, ExpressJS, NodeJS, MongoDB, HTML, CSS, and JavaScript,</b> enabling me to deliver high-quality solutions that meet client and user needs. My proficiency in various frameworks, including Chakra UI and Bootstrap, allows me to design intuitive and aesthetically pleasing user interfaces. Additionally, I have hands-on experience in developing robust back-end services using Node.js. My focus is on building scalable applications that not only enhance user experiences but also contribute to the overall success of projects. </motion.p>
                 </div>
             </div>
 
